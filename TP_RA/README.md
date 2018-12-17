@@ -1,2 +1,0 @@
-# VSION_RA
-TP RA
